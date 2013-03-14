@@ -4,17 +4,12 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>Icon and Splash Demo</name>
+<name>FLL</name>
 
 <description>
-Basic application to test and demonstrate icons and splash screens.
 </description>
 
-<author href="https://build.phonegap.com" email="shardeep@adobe.com">
-Hardeep Shoker
-</author>
-
-<preference name="phonegap-version" value="1.7.0" />
+<preference name="phonegap-version" value="2.3.0" />
 
 <!-- Icons -->
 
